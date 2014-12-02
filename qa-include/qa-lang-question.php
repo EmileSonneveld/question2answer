@@ -1,11 +1,11 @@
 <?php
-	
+
 /*
 	Question2Answer (c) Gideon Greenspan
 
 	http://www.question2answer.org/
 
-	
+
 	File: qa-include/qa-lang-question.php
 	Version: See define()s at top of qa-include/qa-base.php
 	Description: Language phrases for question page
@@ -15,7 +15,7 @@
 	modify it under the terms of the GNU General Public License
 	as published by the Free Software Foundation; either version 2
 	of the License, or (at your option) any later version.
-	
+
 	This program is distributed in the hope that it will be useful,
 	but WITHOUT ANY WARRANTY; without even the implied warranty of
 	MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
@@ -25,7 +25,7 @@
 */
 
 	return array(
-		'1_answer_title' => '1 Answer',
+		'1_answer_title' => '1 Reply',
 		'a_convert_to_c_on' => 'Convert this answer into a comment on:',
 		'a_convert_to_c' => 'Convert this answer into a comment',
 		'a_convert_warn_cs' => 'Warning: This conversion cannot be reversed and will also move this answer\'s comments.',
@@ -44,7 +44,7 @@
 		'answer_must_be_approved' => 'Your account must be approved before you answer a question.',
 		'answer_must_confirm' => 'Please ^5confirm your email address^6 to answer this question.',
 		'answer_must_login' => 'Please ^1log in^2 or ^3register^4 to answer this question.',
-		'answer_q_popup' => 'Answer this question',
+		'answer_q_popup' => 'Reply this question',
 		'approve_button' => 'approve',
 		'ask_button' => 'Ask the Question',
 		'ask_follow_from_a' => 'Your question will be related to this answer:',
@@ -149,7 +149,7 @@
 		'retag_cat_popup' => 'Change this question\'s category or tags',
 		'retag_popup' => 'Change this question\'s tags',
 		'retag_q_title' => 'Retag question',
-		'save_silent_label' => 'Save silently to hide that this was edited', 
+		'save_silent_label' => 'Save silently to hide that this was edited',
 		'select_popup' => 'Click to select as best answer',
 		'select_text' => 'Best answer',
 		'show_1_comment' => 'Show 1 comment',
@@ -164,7 +164,7 @@
 		'your_comment_a' => 'Your comment on this answer:',
 		'your_comment_q' => 'Your comment on this question:',
 	);
-	
+
 
 /*
 	Omit PHP closing tag to help avoid accidental output
