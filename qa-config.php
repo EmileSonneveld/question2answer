@@ -177,3 +177,12 @@
 /*
 	Omit PHP closing tag to help avoid accidental output
 */
+
+
+/*
+	Try to turn on error reporting @boamaod
+*/
+
+	error_reporting(E_ALL);
+	ini_set('display_errors', '1');
+
