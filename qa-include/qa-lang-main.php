@@ -53,7 +53,7 @@
 		'answer_selected' => 'answer selected',
 		'answered_qs_in_x' => 'Most answered questions in ^',
 		'answered_qs_title' => 'Most answered questions',
-		'answered' => 'answered',
+		'answered' => 'forked',
 		'asked_related_q' => 'asked related question',
 		'asked' => 'asked',
 		'by_x' => 'by ^',
