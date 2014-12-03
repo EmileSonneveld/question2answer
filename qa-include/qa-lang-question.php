@@ -25,7 +25,7 @@
 */
 
 	return array(
-		'1_answer_title' => '1 Reply',
+		'1_answer_title' => '1 fork',
 		'a_convert_to_c_on' => 'Convert this answer into a comment on:',
 		'a_convert_to_c' => 'Convert this answer into a comment',
 		'a_convert_warn_cs' => 'Warning: This conversion cannot be reversed and will also move this answer\'s comments.',
@@ -35,12 +35,12 @@
 		'a_notify_x_label' => 'Email me (^) if my answer is selected or commented on',
 		'a_waiting_your_approval' => 'This answer is waiting for your approval',
 		'a_your_waiting_approval' => 'Your answer will be checked and approved shortly.',
-		'add_answer_button' => 'Add answer',
+		'add_answer_button' => 'Add fork',
 		'add_comment_button' => 'Add comment',
 		'add_q_favorites' => 'Add this question to my favorites',
 		'anon_name_label' => 'Your name to display (optional):',
 		'answer_button' => 'fork',
-		'answer_limit' => 'Too many answers received - please try again in an hour',
+		'answer_limit' => 'Too many forks created - please try again in an hour',
 		'answer_must_be_approved' => 'Your account must be approved before you answer a question.',
 		'answer_must_confirm' => 'Please ^5confirm your email address^6 to answer this question.',
 		'answer_must_login' => 'Please ^1log in^2 or ^3register^4 to answer this question.',
