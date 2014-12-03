@@ -15,3 +15,6 @@
 [submodule "qa-theme/q2a-mobile-theme"]
 	path = qa-theme/q2a-mobile-theme
 	url = https://github.com/NoahY/q2a-mobile-theme
+[submodule "qa-theme/q2a-parchment-theme"]
+	path = qa-theme/q2a-parchment-theme
+	url = https://github.com/NoahY/q2a-parchment-theme
