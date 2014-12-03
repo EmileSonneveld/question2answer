@@ -1,6 +1,17 @@
 [submodule "qa-plugin/q2a-share"]
 	path = qa-plugin/q2a-share
 	url = https://github.com/NoahY/q2a-share
+
 [submodule "qa-plugin/q2a-comment-voting"]
 	path = qa-plugin/q2a-comment-voting
 	url = https://github.com/NoahY/q2a-comment-voting
+
+[submodule "qa-theme/donut"]
+	path = qa-theme/donut
+	url = https://github.com/amiyasahu/Donut
+[submodule "qa-theme/Q2A-Metro-Theme"]
+	path = qa-theme/Q2A-Metro-Theme
+	url = https://github.com/Towhidn/Q2A-Metro-Theme
+[submodule "qa-theme/q2a-mobile-theme"]
+	path = qa-theme/q2a-mobile-theme
+	url = https://github.com/NoahY/q2a-mobile-theme
