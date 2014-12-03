@@ -150,7 +150,7 @@
 		'recent_cs_in_x' => 'Recently commented questions in ^',
 		'recent_cs_title' => 'Recently commented questions',
 		'recent_qs_as_in_x' => 'Recent questions and answers in ^',
-		'recent_qs_as_title' => 'Recent questions and answers',
+		'recent_qs_as_title' => 'Recently proposed questions',
 		'recent_qs_in_x' => 'Recent questions in ^',
 		'recent_qs_title' => 'Recent questions',
 		'related_qs_title' => 'Related questions',
