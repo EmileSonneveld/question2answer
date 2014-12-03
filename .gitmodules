@@ -1,0 +1,3 @@
+[submodule "qa-plugin/q2a-share"]
+	path = qa-plugin/q2a-share
+	url = https://github.com/NoahY/q2a-share
