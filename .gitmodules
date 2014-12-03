@@ -1,3 +1,6 @@
 [submodule "qa-plugin/q2a-share"]
 	path = qa-plugin/q2a-share
 	url = https://github.com/NoahY/q2a-share
+[submodule "qa-plugin/q2a-comment-voting"]
+	path = qa-plugin/q2a-comment-voting
+	url = https://github.com/NoahY/q2a-comment-voting
